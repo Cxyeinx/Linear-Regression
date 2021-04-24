@@ -1,5 +1,7 @@
 # Linear Regression
 
+Note: If this is not rendered by Github, its not my fault lol. You could clone clone the repo though, smirk.
+
 Linear Regression is a linear model showing the relationship between x values and y values.
 
 $$
@@ -24,6 +26,3 @@ Before: \
 
 After: \
 ![](after.jpg)
-
-
-<img src="https://render.githubusercontent.com/render/math?math=e^{i %2B\pi} =x%2B1">
